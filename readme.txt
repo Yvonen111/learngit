@@ -27,3 +27,6 @@ modifed master
 
 f2 modified
 >>>>>>> f2
+
+
+修改bug master 
