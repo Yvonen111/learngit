@@ -21,4 +21,9 @@ feature1 modified
 
 feature2 modified 
 
+<<<<<<< HEAD
 modifed master
+=======
+
+f2 modified
+>>>>>>> f2
