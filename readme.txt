@@ -11,4 +11,9 @@ hyf
 
 gj is my son
 
+<<<<<<< HEAD
 master modified
+=======
+feature1 modified
+
+>>>>>>> feature1
