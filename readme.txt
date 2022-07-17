@@ -11,22 +11,11 @@ hyf
 
 gj is my son
 
-<<<<<<< HEAD    hyf
+hyf
 master modified
-=======
 feature1 modified
-
->>>>>>> feature1
-
-
 feature2 modified 
 
-
 f2 modified
-<<<<<<< HEAD
-=======
->>>>>>> f2
-
-
 修改bug master 
->>>>>>> 65c8a3b... 修改bug
+
